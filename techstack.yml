@@ -1,11 +1,12 @@
 repo_name: siner308/waka-box
 report_id: ce4b123705eb1a2d99032dabd0fa74df
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-15T10:23:59+00:00'
+timestamp: '2024-01-05T08:40:39+00:00'
 requested_by: siner308
 provider: github
 branch: master
-detected_tools_count: 12
+detected_tools_count: 13
 tools:
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/siner308/waka-box
   detection_source: Repo Metadata
 - name: Dotenv
   description: Loads environment variables from .env for Nodejs projects
@@ -26,6 +28,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Server Configuration and Automation
   image_url: https://img.stackshare.io/service/8067/default_90dcb1286af7685c68df319c764b80704df1155b.png
+  detection_source_url: https://github.com/siner308/waka-box/blob/master/package.json
   detection_source: package.json
   last_updated_by: BSKY
   last_updated_on: 2019-12-26 22:56:08.000000000 Z
@@ -37,6 +40,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/siner308/waka-box
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -46,6 +50,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/siner308/waka-box/blob/master/.github/workflows/schedule.yml
   detection_source: ".github/workflows/schedule.yml"
   last_updated_by: BSKY
   last_updated_on: 2019-08-18 13:21:37.000000000 Z
@@ -57,6 +62,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Tools for GitHub
   image_url: https://img.stackshare.io/service/9827/octokit-dotnet_2.png
+  detection_source_url: https://github.com/siner308/waka-box/blob/master/package.json
   detection_source: package.json
   last_updated_by: BSKY
   last_updated_on: 2019-12-26 22:56:08.000000000 Z
@@ -70,7 +76,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/siner308/waka-box/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: BSKY
   last_updated_on: 2019-12-26 22:56:08.000000000 Z
@@ -82,6 +88,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/siner308/waka-box/blob/master/package.json
   detection_source: package.json
   last_updated_by: Matan Kushner
   last_updated_on: 2019-03-15 17:24:25.000000000 Z
@@ -94,6 +101,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/siner308/waka-box
   detection_source: Repo Metadata
 - name: axios
   description: Promise based HTTP client for the browser and node.js
@@ -105,7 +113,7 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/no-img-open-source.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/siner308/waka-box/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: BSKY
   last_updated_on: 2019-12-26 22:56:08.000000000 Z
@@ -114,6 +122,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/9527/5502029.jpeg
+  detection_source_url: https://github.com/siner308/waka-box/blob/master/package.json
   detection_source: package.json
   last_updated_by: BSKY
   last_updated_on: 2019-12-26 22:56:08.000000000 Z
@@ -127,7 +136,21 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16999/default_43f23668e39c9b3381720c9c76540776b8a49167.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/siner308/waka-box/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: BSKY
+  last_updated_on: 2019-12-26 22:56:08.000000000 Z
+- name: husky
+  description: Prevents bad commit or push
+  package_url: https://www.npmjs.com/husky
+  version: 3.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15831/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/siner308/waka-box/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: BSKY
   last_updated_on: 2019-12-26 22:56:08.000000000 Z
@@ -141,7 +164,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16281/default_f130429ee56156823c8c6e94da6fb7aa07f07ba5.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/siner308/waka-box/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: BSKY
   last_updated_on: 2019-12-26 22:56:08.000000000 Z
