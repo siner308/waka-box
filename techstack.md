@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 siner308/waka-box is built on the following main stack:
+
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 - [axios](https://github.com/mzabriskie/axios) – Javascript Utilities & Libraries
@@ -10,11 +11,13 @@ siner308/waka-box is built on the following main stack:
 - [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 siner308/waka-box is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 - <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='axios'/> [axios](https://github.com/mzabriskie/axios) – Javascript Utilities & Libraries
@@ -23,14 +26,15 @@ siner308/waka-box is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [siner308/waka-box](https://github.com/siner308/waka-box)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|12<br/>Tools used|11/15/23 <br/>Report generated|
+|13<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -130,16 +134,17 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (2)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (3)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (2)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (3)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
 |[@octokit/rest](https://www.npmjs.com/@octokit/rest)|v16.36.0|12/26/19|BSKY |MIT|N/A|
+|[husky](https://www.npmjs.com/husky)|v3.1.0|12/26/19|BSKY |MIT|N/A|
 |[pretty-quick](https://www.npmjs.com/pretty-quick)|v2.0.1|12/26/19|BSKY |MIT|N/A|
 
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
