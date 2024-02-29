@@ -2,7 +2,7 @@ repo_name: siner308/waka-box
 report_id: ce4b123705eb1a2d99032dabd0fa74df
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:40:39+00:00'
+timestamp: '2024-02-29T18:46:46+00:00'
 requested_by: siner308
 provider: github
 branch: master
@@ -67,7 +67,7 @@ tools:
   last_updated_by: BSKY
   last_updated_on: 2019-12-26 22:56:08.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 1.19.1
   license: MIT
